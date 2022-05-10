@@ -1,4 +1,4 @@
-The objection of this project is to compress the given image which has a compression rate of 40%.
+The objection of this project is to compress the given image(image.bmp) by implementing JPEG compression techniques from scratch.
 Run main.c and keep the input data(image) in the same directory as main.c
 
 The knowledge require to understand the code is listed below:
